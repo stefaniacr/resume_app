@@ -5,7 +5,7 @@ import sys
 
 
 def main():
-    """Run administrative tasks."""
+    """Run administrative tasks. hohora hora hora """
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'resume_demo.settings')
     try:
         from django.core.management import execute_from_command_line
